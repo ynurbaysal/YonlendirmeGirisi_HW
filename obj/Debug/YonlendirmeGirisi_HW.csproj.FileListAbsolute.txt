@@ -1,0 +1,10 @@
+C:\Users\nur\source\repos\YonlendirmeGirisi_HW\YonlendirmeGirisi_HW\bin\Debug\YonlendirmeGirisi_HW.exe.config
+C:\Users\nur\source\repos\YonlendirmeGirisi_HW\YonlendirmeGirisi_HW\bin\Debug\YonlendirmeGirisi_HW.exe
+C:\Users\nur\source\repos\YonlendirmeGirisi_HW\YonlendirmeGirisi_HW\bin\Debug\YonlendirmeGirisi_HW.pdb
+C:\Users\nur\source\repos\YonlendirmeGirisi_HW\YonlendirmeGirisi_HW\obj\Debug\YonlendirmeGirisi_HW.csprojAssemblyReference.cache
+C:\Users\nur\source\repos\YonlendirmeGirisi_HW\YonlendirmeGirisi_HW\obj\Debug\YonlendirmeGirisi_HW.Form1.resources
+C:\Users\nur\source\repos\YonlendirmeGirisi_HW\YonlendirmeGirisi_HW\obj\Debug\YonlendirmeGirisi_HW.Properties.Resources.resources
+C:\Users\nur\source\repos\YonlendirmeGirisi_HW\YonlendirmeGirisi_HW\obj\Debug\YonlendirmeGirisi_HW.csproj.GenerateResource.cache
+C:\Users\nur\source\repos\YonlendirmeGirisi_HW\YonlendirmeGirisi_HW\obj\Debug\YonlendirmeGirisi_HW.csproj.CoreCompileInputs.cache
+C:\Users\nur\source\repos\YonlendirmeGirisi_HW\YonlendirmeGirisi_HW\obj\Debug\YonlendirmeGirisi_HW.exe
+C:\Users\nur\source\repos\YonlendirmeGirisi_HW\YonlendirmeGirisi_HW\obj\Debug\YonlendirmeGirisi_HW.pdb
